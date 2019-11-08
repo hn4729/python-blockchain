@@ -1,5 +1,5 @@
-.vscode
-*.pyc
-*__pycache__*
+.vscode/
+*.pyc/
+*__pycache__*/
 *node_modules*
 blockchain-env/Lib/
